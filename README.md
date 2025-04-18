@@ -78,6 +78,9 @@ Sistem prediksi risiko dropout dapat dijalankan menggunakan file `app.py` berbas
 streamlit run app.py
 ```
 
+Akses aplikasi pada link Streamlit Cloud berikut.
+[https://data-science-etm85sk3knv5fmmjbyhe8x.streamlit.app/](https://data-science-etm85sk3knv5fmmjbyhe8x.streamlit.app/)
+
 ## Conclusion
 Berdasarkan hasil analisis data dan model machine learning yang telah dibangun, ditemukan bahwa karakteristik umum siswa yang dropout di Jaya Jaya Institut antara lain:
 - Jenis kelamin: Lebih banyak terjadi pada siswa laki-laki dibanding perempuan.
